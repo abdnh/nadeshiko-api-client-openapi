@@ -3,8 +3,9 @@ name = "nadeshiko_api_client"
 version = "1.0.0"
 description = "Nadeshiko API"
 authors = [
-  {name = "Marc from Scalar",email = "marc@scalar.com"},
+  {name = "Nadeshiko Team",email = "team@openapitools.org"},
 ]
+license = { text = "AGPL-3.0" }
 readme = "README.md"
 keywords = ["OpenAPI", "OpenAPI-Generator", "Nadeshiko API"]
 requires-python = ">=3.9"
@@ -17,7 +18,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/abdnh/nadeshiko-api-client"
+Repository = "https://github.com/GIT_USER_ID/GIT_REPO_ID"
 
 [tool.poetry]
 requires-poetry = ">=2.0"
